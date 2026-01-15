@@ -12,6 +12,8 @@ const login = ({handleLogin}) => {
     // preventdefault means stop the default behavior of the form submission
     e.preventDefault();
     handleLogin(email,password)
+    console.log( handleLogin(email,password));
+    
     setEmail("")
     setPassword("")
   }
