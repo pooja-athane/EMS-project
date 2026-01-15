@@ -1,7 +1,8 @@
 import React from 'react'
 import Header from '../others/Header.jsx'
-// import TaskNumber from '../others/TaskNumber.jsx' 
+
 import TaskList from '../Task_list/TaskList.jsx'
+import TaskNumber from '../others/TaskNumber.jsx'
 
 // import React from 'react'
 // import Header from '../other/Header'
